@@ -1,0 +1,11 @@
+C:\Users\Huis\Desktop\Programming\ChangeReturn\ChangeReturn\obj\Debug\netcoreapp2.0\ChangeReturn.csprojResolveAssemblyReference.cache
+C:\Users\Huis\Desktop\Programming\ChangeReturn\ChangeReturn\obj\Debug\netcoreapp2.0\ChangeReturn.csproj.CoreCompileInputs.cache
+C:\Users\Huis\Desktop\Programming\ChangeReturn\ChangeReturn\obj\Debug\netcoreapp2.0\ChangeReturn.AssemblyInfoInputs.cache
+C:\Users\Huis\Desktop\Programming\ChangeReturn\ChangeReturn\obj\Debug\netcoreapp2.0\ChangeReturn.AssemblyInfo.cs
+C:\Users\Huis\Desktop\Programming\ChangeReturn\ChangeReturn\bin\Debug\netcoreapp2.0\ChangeReturn.deps.json
+C:\Users\Huis\Desktop\Programming\ChangeReturn\ChangeReturn\bin\Debug\netcoreapp2.0\ChangeReturn.runtimeconfig.json
+C:\Users\Huis\Desktop\Programming\ChangeReturn\ChangeReturn\bin\Debug\netcoreapp2.0\ChangeReturn.runtimeconfig.dev.json
+C:\Users\Huis\Desktop\Programming\ChangeReturn\ChangeReturn\bin\Debug\netcoreapp2.0\ChangeReturn.dll
+C:\Users\Huis\Desktop\Programming\ChangeReturn\ChangeReturn\bin\Debug\netcoreapp2.0\ChangeReturn.pdb
+C:\Users\Huis\Desktop\Programming\ChangeReturn\ChangeReturn\obj\Debug\netcoreapp2.0\ChangeReturn.dll
+C:\Users\Huis\Desktop\Programming\ChangeReturn\ChangeReturn\obj\Debug\netcoreapp2.0\ChangeReturn.pdb
